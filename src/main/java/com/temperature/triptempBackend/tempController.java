@@ -22,5 +22,11 @@ public class tempController {
 
     }
 
+    public int getPlace(@RequestParam String placeName ) {
+        int placeNumber=0;
 
+        return placeNumber;
+
+
+    }
 }
