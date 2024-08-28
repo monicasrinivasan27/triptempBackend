@@ -26,7 +26,8 @@ public class tempController {
 
     public int getPlace(@RequestParam String placeName ) {
         int placeNumber=0;
-
+        int placeNumber2=0;
+        int placeNumber3=0;
         return placeNumber;
 
 
