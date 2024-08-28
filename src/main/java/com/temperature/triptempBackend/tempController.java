@@ -16,6 +16,8 @@ public class tempController {
         return yearParam;}
     public int getTemp(@RequestParam int tempVal ) {
         int tempValChange=0;
+        int tempValChange2=0;
+        int tempValChange3=0;
 
         return tempValChange;
 
