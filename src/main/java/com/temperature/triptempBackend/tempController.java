@@ -23,7 +23,15 @@ public class tempController {
 
 
     }
+    public int get1Temp(@RequestParam int tempVal1 ) {
+        int tempValChange=0;
+        int tempValChange2=0;
+        int tempValChange3=0;
 
+        return tempValChange;
+
+
+    }
     public int getPlace(@RequestParam String placeName ) {
         int placeNumber=0;
         int placeNumber2=0;
